@@ -17,11 +17,6 @@
 	include('sidebar.php');
 ?>
 
-		  <div id="leftcolumn">
-		    <?php
-          	  include('sidebar.php');
-            ?>
-	      </div>
 		  <div id="centrelarge">
 			<h3><a href="monstertruck.html"><img src="craigslist/monster/monsterthumb.jpg" alt="" width="65" height="65" align="left" border="0" /></a><img src="images/65_space.gif" alt="" width="15" height="65" align="left" border="0" /><a href="monstertruck.html">Monster truck on sale - Only $75,000!</a></h3>
                 <p>...somewhere private? Perhaps in an alley somewhere? I'll have the keys ready for you. </p>
