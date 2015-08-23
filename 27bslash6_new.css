@@ -1,0 +1,53 @@
+* { padding: 0; margin: 0; }
+body { color: #5a6369; font-size: 70%; font-family: Arial, Helvetica, sans-serif; line-height: 1.4em; text-decoration: none; }
+h1, h2, h3, h4, h5 {
+	/*font-family: "Calibri", "Arial", "Helvetica", "Nimbus Sans L", sans-serif;*/
+	font-family: Arial, Helvetica, "Nimbus Sans L", sans-serif; line-height: 1em; text-decoration: none; }
+#wrappertop { background-image: url(images/curve_top.gif); background-repeat: no-repeat; background-attachment: inherit; width: 970px; height: 30px; overflow: auto; margin-top: 70px; margin-right: auto; margin-left: auto; padding-right: 20px; padding-left: 20px; }
+#wrapper { background-image: url(images/curve_edge.gif); background-repeat: repeat-y; background-attachment: inherit; width: 970px; height: auto; overflow: auto; margin-right: auto; margin-left: auto; padding-right: 20px; padding-bottom: 20px; padding-left: 20px; }
+#wrapperend { background-image: url(images/back_bottom.gif); background-repeat: no-repeat; background-attachment: inherit; margin: 0 auto 70px; padding: 0 20px 20px; width: 970px; height: 20px; overflow: auto; }
+#leftcolumn { width: 145px; height: auto; float: left; margin: 25px 28px 0 25px; padding-right: 25px; border-right: 1px solid #c5cbd0; }
+#leftmiddle { width: 140px; height: auto; float: left; margin-top: 25px; margin-right: 25px; margin-bottom: 0; }
+#leftmiddle200 { margin-top: 25px; margin-right: 25px; margin-bottom: 0; width: 170px; height: auto; float: left; }
+#centrelarge { width: 520px; height: auto; float: left; margin-top: 25px; margin-right: 25px; margin-bottom: 0; }
+#fullspace { width: 720px; height: auto; float: left; margin: 25px 25px 0 30px; }
+#centrelarge2 { margin-top: 25px; margin-right: 40px; margin-bottom: 0; width: 640px; height: auto; float: left; padding-left: 50px; }
+#centrebook { margin-top: 25px; margin-right: 40px; margin-bottom: 0; padding-left: 50px; width: 450px; height: auto; float: left; }
+#rightmiddle { margin-top: 25px; margin-right: 25px; margin-bottom: 0; width: 355px; height: auto; float: left; }
+#rightmiddlespace { margin-top: 25px; margin-right: 25px; margin-bottom: 0; width: 345px; height: auto; float: left; padding-left: 10px; }
+#rightmiddlespace300 { margin-top: 25px; margin-right: 25px; margin-bottom: 0; padding-left: 10px; width: 315px; height: auto; float: left; }
+#rightcolumn { width: 145px; height: auto; float: left; margin-top: 25px; margin-right: 20px; margin-bottom: 0; padding-left: 25px; border-left: 1px solid #c5cbd0; }
+#rightcolumn2 { margin-top: 25px; margin-right: 20px; margin-bottom: 0; padding-left: 25px; width: 145px; float: left; }
+#footer { 
+ width: 900px;
+ clear: both;
+ color: #333;
+ border: 1px solid #ccc;
+ background: #BD9C8C;
+ margin: 0px 0px 10px 0px;
+ padding: 10px;
+}
+.clear { float: left; width: 1px; /* http://www.positioniseverything.net/explorer/peekaboo.html */ }
+ul.sidebar { font-size: 1em; font-weight: normal; line-height: 1.2em; margin: 0 0 1.5em; padding: 0; list-style-type: none; border-bottom: 1px solid #fff; }
+ul.sidebar2 { list-style-type: none; margin: 0 0 1.5em; padding: 0; border-bottom: 1px solid #5f676d; }
+ul.sidebar li { font-weight: normal; margin: 0; padding: 0; }
+ul.sidebar li a { display: block; padding: 0.3em 0; text-decoration: none; color: #878f96; font-weight: normal; border-top: 1px solid #c5cbd0; }
+ul.sidebar li a:visited { display: block; padding: 0.3em 0; text-decoration: none; background-image: url(images/nav_visited.gif); border-top: 1px solid #c5cbd0; }
+ul.sidebar li a:hover { color: #90a3b7; background-image: url(images/nav_arrow.gif); }
+h1 { color: #889aad; font-size: 1em; font-weight: bold; text-decoration: none; margin: 0 0 0.6em; padding-bottom: 0.5em; border-bottom: 1pt solid #c5cbd0; }
+h5 { color: #767f87; font-size: 1em; font-weight: normal; line-height: 1.2; text-decoration: none; margin-top: 0; margin-right: 0; margin-left: 0; }
+h3 { color: #8397ac; font-size: 1em; font-weight: bold; line-height: 1.3em; text-decoration: none; margin: 0 0 0.5em; }
+h4 { margin: 0 0 0.7em; font-size: 1em; color: #8497ab; font-weight: bold; text-decoration: none; /*b0e194*/
+}
+h2 { margin: 0.8em 0; font-size: 1.5em; color: #8395a7; font-weight: normal; line-height: 1.1em; text-decoration: none; }
+h6 { color: #90a3b7; font-size: 1em; font-weight: bold; line-height: 1.1em; text-decoration: none; margin-right: 0; margin-bottom: 1em; margin-left: 0; }
+#bufferspace { margin-bottom: 7px; }
+#bufferhalfspace { margin-top: 4px; }
+#bufferspacemenu { margin-bottom: 4px; }
+#bufferdotsindex { margin-top: 15px; margin-bottom: 15px; border-bottom: 1px dotted #c5cbd0; }
+#bufferdots { margin-top: 25px; margin-bottom: 25px; border-bottom: 1px dotted #c5cbd0; }
+#bufferdotsshop { margin-bottom: 20px; border-top: 1px dotted #c5cbd0; }
+#bufferdotsmenu { margin-top: 3px; margin-bottom: 3px; border-top: 1px dotted #c5cbd0; }
+#bufferdotsmedium { margin-top: 20px; margin-bottom: 20px; border-bottom: 1px dotted #c5cbd0; }
+#bufferline { margin-top: 20px; margin-bottom: 20px; border-bottom: 1px solid #c5cbd0; }
+a       { color: #90a3b7; text-decoration: none; }
