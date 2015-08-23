@@ -25,6 +25,11 @@
 			<h3><a href="louisvuittonisnotapurse.php"><img src="craigslist/louisvuittonisnotapurse/louisvuittonthumb.jpg" alt="" width="65" height="65" align="left" border="0" /></a><img src="images/65_space.gif" alt="" width="15" height="65" align="left" border="0" /><a href="louisvuittonisnotapurse.php">Louis Vuitton - $2,000</a></h3>
                 <p>You're a broke dick and I feel sorry for your gf. Further contact constitutes harassment ...</p>
                 <p><a href="louisvuittonisnotapurse.php">Read article...</a></p>
+                
+          <div id="bufferdotsindex"></div>
+			<h3><a href="macbook3years.php"><img src="craigslist/macbook3years/macbook3yearsthumb.jpg" alt="" width="65" height="65" align="left" border="0" /></a><img src="images/65_space.gif" alt="" width="15" height="65" align="left" border="0" /><a href="macbook3years.php">Custom built hotrod macbook- $1,999</a></h3>
+                <p>Did you walk in on your girl friend getting dicked up by a huge black guy or something ...</p>
+                <p><a href="macbook3years.php">Read article...</a></p>
 		  </div>
 	
           <?php
