@@ -19,6 +19,7 @@ $page = 'sidebar';
   <ul class="sidebar">
     <li><a href="monstertruck.php">Monster truck on sale</a></li>
     <li><a href="louisvuittonisnotapurse.php">Louis Vuitton is not a purse!</a></li>
+    <li><a href="macbook3years.php">3 year old macbook pro</a></li>
   </ul>
 </div>
 </body>
