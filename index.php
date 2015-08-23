@@ -21,13 +21,12 @@
 			<h3><a href="monstertruck.php"><img src="craigslist/monster/monsterthumb.jpg" alt="" width="65" height="65" align="left" border="0" /></a><img src="images/65_space.gif" alt="" width="15" height="65" align="left" border="0" /><a href="monstertruck.php">Monster truck on sale - Only $75,000!</a></h3>
                 <p>...somewhere private? Perhaps in an alley somewhere? I'll have the keys ready for you. </p>
                 <p><a href="monstertruck.php">Read article...</a></p>
-		  </div>
-          <div id="centrelarge">
+		  <div id="bufferdotsindex"></div>
 			<h3><a href="louisvuittonisnotapurse.php"><img src="craigslist/louisvuittonisnotapurse/louisvuittonthumb.jpg" alt="" width="65" height="65" align="left" border="0" /></a><img src="images/65_space.gif" alt="" width="15" height="65" align="left" border="0" /><a href="louisvuittonisnotapurse.php">Louis Vuitton - $2,000</a></h3>
                 <p>You're a broke dick and I feel sorry for your gf. Further contact constitutes harassment ...</p>
                 <p><a href="louisvuittonisnotapurse.php">Read article...</a></p>
 		  </div>
-          
+	
           <?php
 			include('rightsidebar.php');
 		  ?>
@@ -37,5 +36,5 @@
 		<div id="wrapperend">
 		  <div id="leftcolumn2"></div>
 		</div>
-</body>
+	</body>
 </html>
