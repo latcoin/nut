@@ -18,6 +18,7 @@ $page = 'sidebar';
   <h4>Articles</h4>
   <ul class="sidebar">
     <li><a href="monstertruck.php">Monster truck on sale</a></li>
+    <li><a href="louisvuittonisnotapurse.php">Louis Vuitton is not a purse!</a></li>
   </ul>
 </div>
 </body>
