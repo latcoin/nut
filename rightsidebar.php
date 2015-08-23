@@ -20,7 +20,7 @@ $page = 'rightsidebar';
 		    <ul class="sidebar">
 		      <li><a href="mailto:rkari@ruggedinbox.com">Send me an email</a></li>
 		      <li><a href="mailto:rkari@ruggedinbox.com">Submit a craigslist troll post.</a></li>
-		      <li><a href="disclaimer.html">Disclaimer</a></li>
+		      <li><a href="disclaimer.php">Disclaimer</a></li>
 		      <li></li>
 		      <li></li>
 		      <li></li>
