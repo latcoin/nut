@@ -13,6 +13,10 @@
 <body>
 		<div id="wrappertop"></div>
 		<div id="wrapper">
+<?php
+	include('sidebar.php');
+?>
+
 		  <div id="leftcolumn">
 		    <?php
           	  include('sidebar.php');
