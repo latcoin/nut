@@ -22,7 +22,7 @@
 		      <h1>Disclaimer</h1>
 		    </div>
 				<div id="bufferdots3"></div>
-				<h2><font color="#cccccc">This website contains material from submissions from people like yourself. You are not granted permission to access the information on this site and if you choose to do so by viewing any of the articles either through this page or from an external link, you agree to waive all rights. For privacy reasons we have removed all personal information from nuttyemail submissions.  If you see personal information of yours in a submission and wish to have your ad removed, please send me an email and I will deal with it.</font></h2>
+				<h2><font color="#000000"> I am not in favor of trolling of any kind, it isn't in my personality. None of the submissions on this site were written by me. I am merely sharing with the world the work of other trolls. My goal from all of this is to show the world that internet trolling needs to be stopped. This is my activism effort toward that cause. You are not granted permission to access the information on this site and if you choose to do so by viewing any of the articles either through this page or from an external link, you agree to waive all rights. For privacy reasons I have removed all personal information from nuttyemail submissions.  If you see personal information of yours in a submission and wish to have your ad removed, please send me an email and I will deal with it.</font></h2>
 		  </div>
           <?php
 			include('rightsidebar.php');
