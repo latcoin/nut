@@ -30,6 +30,11 @@
 			<h3><a href="macbook3years.php"><img src="craigslist/macbook3years/macbook3yearsthumb.jpg" alt="" width="65" height="65" align="left" border="0" /></a><img src="images/65_space.gif" alt="" width="15" height="65" align="left" border="0" /><a href="macbook3years.php">Custom built hotrod macbook- $1,999</a></h3>
                 <p>Did you walk in on your girl friend getting dicked up by a huge black guy or something ...</p>
                 <p><a href="macbook3years.php">Read article...</a></p>
+                
+          <div id="bufferdotsindex"></div>
+			<h3><a href="rollingservercase.php"><img src="craigslist/rollingservercase/rollingserverthumb.jpg" alt="" width="65" height="65" align="left" border="0" /></a><img src="images/65_space.gif" alt="" width="15" height="65" align="left" border="0" /><a href="rollingservercase.php">Awesome downloading station - $300</a></h3>
+                <p>Hey. Twat.  Do you want the case or are you just wasting both our fucking time?</p>
+                <p><a href="rollingservercase.php">Read article...</a></p>
 		  </div>
 	
           <?php
