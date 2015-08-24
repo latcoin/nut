@@ -35,6 +35,11 @@
 			<h3><a href="rollingservercase.php"><img src="craigslist/rollingservercase/rollingserverthumb.jpg" alt="" width="65" height="65" align="left" border="0" /></a><img src="images/65_space.gif" alt="" width="15" height="65" align="left" border="0" /><a href="rollingservercase.php">Awesome downloading station - $300</a></h3>
                 <p>Hey. Twat.  Do you want the case or are you just wasting both our fucking time?</p>
                 <p><a href="rollingservercase.php">Read article...</a></p>
+                
+          <div id="bufferdotsindex"></div>
+			<h3><a href="youngproroommate.php"><img src="craigslist/youngproroommate/youngproroommatethumb.jpg" alt="" width="65" height="65" align="left" border="0" /></a><img src="images/65_space.gif" alt="" width="15" height="65" align="left" border="0" /><a href="youngproroommate.php">Super comfy couch in SF - $510</a></h3>
+                <p>Do you work? Or are you still living in mommy's basement jerking off to kiddie porn? </p>
+                <p><a href="youngproroommate.php">Read article...</a></p>
 		  </div>
 	
           <?php
@@ -47,14 +52,4 @@
 		  <div id="leftcolumn2"></div>
 		</div>
 	</body>
-    <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-66650897-1', 'auto');
-  ga('send', 'pageview');
-
-	</script>
 </html>
