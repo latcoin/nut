@@ -40,6 +40,10 @@
 			<h3><a href="youngproroommate.php"><img src="craigslist/youngproroommate/youngproroommatethumb.jpg" alt="" width="65" height="65" align="left" border="0" /></a><img src="images/65_space.gif" alt="" width="15" height="65" align="left" border="0" /><a href="youngproroommate.php">Super comfy couch in SF - $510</a></h3>
                 <p>Do you work? Or are you still living in mommy's basement jerking off to kiddie porn? </p>
                 <p><a href="youngproroommate.php">Read article...</a></p>
+          <div id="bufferdotsindex"></div>
+			<h3><a href="nolisterine.php"><img src="craigslist/nofirstnations/listerinethumb.png" alt="" width="65" height="65" align="left" border="0" /></a><img src="images/65_space.gif" alt="" width="15" height="65" align="left" border="0" /><a href="nolisterine.php">Can't sell listerine to first nations - $30</a></h3>
+                <p>u purposely not listening or what?</p>
+                <p><a href="nolisterine.php">Read article...</a></p>
 		  </div>
 	
           <?php
