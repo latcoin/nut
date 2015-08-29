@@ -92,7 +92,8 @@
             <p>&nbsp;</p>
             <p>Fuck off! don't message me again</p>
             <p>&nbsp;</p>
-                  
+            <div id="bufferdots"></div>      
+            
             <p>Share this page if you laughed</p>      
             <!-- Your like button code -->
             <div class="fb-like" 

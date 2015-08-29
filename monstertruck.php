@@ -97,6 +97,7 @@
             </p>
             <p>Lmao can you understand this   "FUCK YOU"</p>
             <p>&nbsp;</p>
+            <div id="bufferdots"></div>
             
             <p>Share this page if you laughed</p>
             <!-- Your like button code -->
