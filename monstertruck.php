@@ -3,13 +3,6 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <title>Monster truck owner gets a weird request from a troll</title>
-	<!-- You can use open graph tags to customize link previews.
-    Learn more: https://developers.facebook.com/docs/sharing/webmasters -->
-    <meta property="og:url"           content="http://nuttyemails.com/monstertruck.php" />
-    <meta property="og:type"          content="website" />
-    <meta property="og:title"         content="Monster truck owner gets a weird request from a troll" />
-    <meta property="og:description"   content=" " />
-    <meta property="og:image"         content="http://nuttyemails.com/craigslist/monster/monster.jpg" />
     
 <link rel="stylesheet" type="text/css" href="nuttyemails.css" />
 		<meta name="keywords" content="emails, email pranks">
@@ -103,8 +96,7 @@
                 data-action="like" 
                 data-show-faces="true"
                 data-share="true">
-            </div>
-            
+            </div>  
 		  </div>
           <?php
 			include('rightsidebar.php');

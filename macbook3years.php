@@ -138,6 +138,7 @@
             <p>Best,<br />
             </p>
 			<div id="bufferdots"></div>
+            
             <!-- Your like button code -->
             <div class="fb-like" 
                 data-href="http://nuttyemails.com/macbook3years.php" 
@@ -146,7 +147,6 @@
                 data-show-faces="true"
                 data-share="true">
             </div>
-            
 		  </div>
           <?php
 			include('rightsidebar.php');
