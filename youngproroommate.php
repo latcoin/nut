@@ -130,6 +130,7 @@
             </p>
 			<div id="bufferdots"></div>
             
+            <p>Share this page if you laughed</p>
             <!-- Your like button code -->
             <div class="fb-like" 
                 data-href="http://nuttyemails.com/youngproroommate.php" 

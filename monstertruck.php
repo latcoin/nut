@@ -98,6 +98,7 @@
             <p>Lmao can you understand this   "FUCK YOU"</p>
             <p>&nbsp;</p>
             
+            <p>Share this page if you laughed</p>
             <!-- Your like button code -->
             <div class="fb-like" 
                 data-href="http://nuttyemails.com/monstertruck.php" 

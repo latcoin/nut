@@ -92,7 +92,8 @@
             <p>&nbsp;</p>
             <p>Fuck off! don't message me again</p>
             <p>&nbsp;</p>
-                        
+                  
+            <p>Share this page if you laughed</p>      
             <!-- Your like button code -->
             <div class="fb-like" 
                 data-href="http://nuttyemails.com/nolisterine.php" 
