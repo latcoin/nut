@@ -3,9 +3,9 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <title>Monster truck owner gets a weird request from a troll</title>
-<!-- You can use open graph tags to customize link previews.
+	<!-- You can use open graph tags to customize link previews.
     Learn more: https://developers.facebook.com/docs/sharing/webmasters -->
-    <meta property="og:url"           content="http://nuttyemails.com/monstertruck.php" />
+    <meta type="og:url" content="<?php get_current_url(); ?>" >
     <meta property="og:type"          content="website" />
     <meta property="og:title"         content="Monster truck owner gets a weird request from a troll" />
     <meta property="og:description"   content=" " />
@@ -20,14 +20,14 @@
 
 <body>
 		<!-- This section is code from facebook for like and share initialization -->
-        <!--<div id="fb-root"></div>
+        <div id="fb-root"></div>
 		<script>(function(d, s, id) {
           var js, fjs = d.getElementsByTagName(s)[0];
           if (d.getElementById(id)) return;
           js = d.createElement(s); js.id = id;
           js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=919855458072430";
           fjs.parentNode.insertBefore(js, fjs);
-        }(document, 'script', 'facebook-jssdk'));</script>-->
+        }(document, 'script', 'facebook-jssdk'));</script>
         
 		<div id="wrappertop"></div>
 		<div id="wrapper">
