@@ -3,14 +3,6 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <title>Nutty Emails</title>
-<!-- You can use open graph tags to customize link previews.
-    Learn more: https://developers.facebook.com/docs/sharing/webmasters -->
-    <meta property="og:url"           content="http://nuttyemails.com/youngproroommate.php" />
-    <meta property="og:type"          content="website" />
-    <meta property="og:title"         content="Troll finds a couch in San Francisco for rent - Hilarity ensues" />
-    <meta property="og:description"   content="" />
-    <meta property="og:image"         content="http://nuttyemails.com/craigslist/youngproroommate/youngproroommate.png" />
-    
 <link rel="stylesheet" type="text/css" href="nuttyemails.css" />
 		<meta name="keywords" content="emails, email pranks">
 		<meta name="copyright" content="Anonymous Nobody">
@@ -19,6 +11,14 @@
 	</head>
 
 <body>
+    <!-- You can use open graph tags to customize link previews.
+        Learn more: https://developers.facebook.com/docs/sharing/webmasters -->
+        <meta property="og:url"           content="http://nuttyemails.com/youngproroommate.php" />
+        <meta property="og:type"          content="website" />
+        <meta property="og:title"         content="Troll finds a couch in San Francisco for rent - Hilarity ensues" />
+        <meta property="og:description"   content="" />
+        <meta property="og:image"         content="http://nuttyemails.com/craigslist/youngproroommate/youngproroommate.png" />
+        
 		<!-- This section is code from facebook for like and share initialization -->
         <div id="fb-root"></div>
         <script>(function(d, s, id) {
