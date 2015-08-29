@@ -5,7 +5,7 @@
 <title>Nutty Emails</title>
 <!-- You can use open graph tags to customize link previews.
     Learn more: https://developers.facebook.com/docs/sharing/webmasters -->
-    <meta property="og:url"           content="http://nuttyemails.com/nolisterine.php" />
+    <meta property="og:url"           content="http://nuttyemails.com/monstertruck.php" />
     <meta property="og:type"          content="website" />
     <meta property="og:title"         content="Monster truck owner gets a weird request from a troll" />
     <meta property="og:description"   content="" />
