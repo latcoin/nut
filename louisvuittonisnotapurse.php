@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-<title>Nutty Emails</title>
+<title>Philosophy troll meets louis vuitton purse owner</title>
 <!-- You can use open graph tags to customize link previews.
     Learn more: https://developers.facebook.com/docs/sharing/webmasters -->
     <meta property="og:url"           content="http://nuttyemails.com/louisvuittonisnotapurse.php" />
