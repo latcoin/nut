@@ -8,7 +8,7 @@
     <meta property="og:url"           content="http://nuttyemails.com/youngproroommate.php" />
     <meta property="og:type"          content="website" />
     <meta property="og:title"         content="Troll finds a couch in San Francisco for rent - Hilarity ensues" />
-    <meta property="og:description"   content="" />
+    <meta property="og:description"   content=" " />
     <meta property="og:image"         content="http://nuttyemails.com/craigslist/youngproroommate/youngproroommate.png" />
     
 <link rel="stylesheet" type="text/css" href="nuttyemails.css" />

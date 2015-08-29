@@ -2,13 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-<title>Nutty Emails</title>
+<title>Angry troll finds over priced macbook on craigslist</title>
 <!-- You can use open graph tags to customize link previews.
     Learn more: https://developers.facebook.com/docs/sharing/webmasters -->
     <meta property="og:url"           content="http://nuttyemails.com/macbook3years.php" />
     <meta property="og:type"          content="website" />
     <meta property="og:title"         content="Angry troll finds over priced macbook on craigslist" />
-    <meta property="og:description"   content="" />
+    <meta property="og:description"   content=" " />
     <meta property="og:image"         content="http://nuttyemails.com/craigslist/macbook3years/macbook3years.png" />
     
 <link rel="stylesheet" type="text/css" href="nuttyemails.css" />

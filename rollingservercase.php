@@ -8,7 +8,7 @@
     <meta property="og:url"           content="http://nuttyemails.com/rollingservercase.php" />
     <meta property="og:type"          content="website" />
     <meta property="og:title"         content="Angry Troll finds overpriced item on craigslist" />
-    <meta property="og:description"   content="" />
+    <meta property="og:description"   content=" " />
     <meta property="og:image"         content="http://nuttyemails.com/craigslist/rollingservercase/rollingserver.jpg" />
     
 <link rel="stylesheet" type="text/css" href="nuttyemails.css" />

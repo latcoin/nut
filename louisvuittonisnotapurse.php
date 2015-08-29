@@ -8,7 +8,7 @@
     <meta property="og:url"           content="http://nuttyemails.com/louisvuittonisnotapurse.php" />
     <meta property="og:type"          content="website" />
     <meta property="og:title"         content="Philosophy troll meets louis vuitton purse owner." />
-    <meta property="og:description"   content="" />
+    <meta property="og:description"   content=" " />
     <meta property="og:image"         content="http://nuttyemails.com/craigslist/louisvuittonisnotapurse/louisvuitton.jpg" />
     
 <link rel="stylesheet" type="text/css" href="nuttyemails.css" />

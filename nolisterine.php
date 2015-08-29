@@ -8,7 +8,7 @@
     <meta property="og:url"           content="http://nuttyemails.com/nolisterine.php" />
     <meta property="og:type"          content="website" />
     <meta property="og:title"         content="Craigslist racist gets trolled" />
-    <meta property="og:description"   content="" />
+    <meta property="og:description"   content=" " />
     <meta property="og:image"         content="http://nuttyemails.com/craigslist/nofirstnations/nofirstnations.png" />
     
 <link rel="stylesheet" type="text/css" href="nuttyemails.css" />
@@ -28,8 +28,6 @@
           js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=919855458072430";
           fjs.parentNode.insertBefore(js, fjs);
         }(document, 'script', 'facebook-jssdk'));</script>
-
-
 
 		<div id="wrappertop"></div>
 		<div id="wrapper">

@@ -8,7 +8,7 @@
     <meta property="og:url"           content="http://nuttyemails.com/monstertruck.php" />
     <meta property="og:type"          content="website" />
     <meta property="og:title"         content="Monster truck owner gets a weird request from a troll" />
-    <meta property="og:description"   content="" />
+    <meta property="og:description"   content=" " />
     <meta property="og:image"         content="http://nuttyemails.com/craigslist/monster/monster.jpg" />
     
 <link rel="stylesheet" type="text/css" href="nuttyemails.css" />
