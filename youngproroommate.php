@@ -5,9 +5,11 @@
 <title>Troll finds a couch in San Francisco for rent - Hilarity ensues</title>
 <!-- You can use open graph tags to customize link previews.
     Learn more: https://developers.facebook.com/docs/sharing/webmasters -->
+    <meta property="fb:admins" 		  content="100004094104189"/>
+    <meta property="fb:app_id" 		  content="919855458072430"/>
     <meta property="og:url"           content="http://nuttyemails.com/youngproroommate.php" />
     <meta property="og:type"          content="website" />
-    <meta property="og:title"         content="Troll finds a couch in San Francisco for rent - Hilarity ensues" />
+    <meta property="og:title"         content="Troll finds a couch for rent in San Francisco - Hilarity ensues" />
     <meta property="og:description"   content=" " />
     <meta property="og:image"         content="http://nuttyemails.com/craigslist/youngproroommate/youngproroommate.png" />
     

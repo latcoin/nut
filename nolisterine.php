@@ -5,6 +5,8 @@
 <title>Craigslist racist gets trolled</title>
     <!-- You can use open graph tags to customize link previews.
     Learn more: https://developers.facebook.com/docs/sharing/webmasters -->
+    <meta property="fb:admins" 		  content="100004094104189"/>
+    <meta property="fb:app_id" 		  content="919855458072430"/>
     <meta property="og:url"           content="http://nuttyemails.com/nolisterine.php" />
     <meta property="og:type"          content="website" />
     <meta property="og:title"         content="Craigslist racist gets trolled" />
