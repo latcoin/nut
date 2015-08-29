@@ -3,6 +3,14 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <title>Nutty Emails</title>
+<!-- You can use open graph tags to customize link previews.
+    Learn more: https://developers.facebook.com/docs/sharing/webmasters -->
+    <meta property="og:url"           content="http://nuttyemails.com/louisvuittonisnotapurse.php" />
+    <meta property="og:type"          content="website" />
+    <meta property="og:title"         content="Philosophy troll meets louis vuitton purse owner." />
+    <meta property="og:description"   content="" />
+    <meta property="og:image"         content="http://nuttyemails.com/craigslist/louisvuittonisnotapurse/louisvuitton.jpg" />
+    
 <link rel="stylesheet" type="text/css" href="nuttyemails.css" />
 		<meta name="keywords" content="emails, email pranks">
 		<meta name="copyright" content="Anonymous Nobody">
@@ -11,6 +19,17 @@
 	</head>
 
 <body>
+
+		<!-- This section is code from facebook for like and share initialization -->
+        <div id="fb-root"></div>
+        <script>(function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=919855458072430";
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+        
 		<div id="wrappertop"></div>
 		<div id="wrapper">
 		<?php
@@ -49,6 +68,15 @@
 				You're a broke dick and I feel sorry for your gf. Further contact constitutes harassment and I will forward to the police department and my attorney.<br />
 		    </p>
 			<div id="bufferdots"></div>
+            
+            <!-- Your like button code -->
+            <div class="fb-like" 
+                data-href="http://nuttyemails.com/louisvuittonisnotapurse.php" 
+                data-layout="button" 
+                data-action="like" 
+                data-show-faces="true"
+                data-share="true">
+            </div>
 		  </div>
           <?php
 			include('rightsidebar.php');

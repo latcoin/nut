@@ -7,8 +7,8 @@
     Learn more: https://developers.facebook.com/docs/sharing/webmasters -->
     <meta property="og:url"           content="http://nuttyemails.com/nolisterine.php" />
     <meta property="og:type"          content="website" />
-    <meta property="og:title"         content="Craigslist racist meets troll" />
-    <meta property="og:description"   content="Craigslist racist gets trolled hard" />
+    <meta property="og:title"         content="Craigslist racist gets trolled" />
+    <meta property="og:description"   content="" />
     <meta property="og:image"         content="http://nuttyemails.com/craigslist/nofirstnations/nofirstnations.png" />
     
 <link rel="stylesheet" type="text/css" href="nuttyemails.css" />

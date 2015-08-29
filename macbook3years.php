@@ -3,6 +3,14 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <title>Nutty Emails</title>
+<!-- You can use open graph tags to customize link previews.
+    Learn more: https://developers.facebook.com/docs/sharing/webmasters -->
+    <meta property="og:url"           content="http://nuttyemails.com/macbook3years.php" />
+    <meta property="og:type"          content="website" />
+    <meta property="og:title"         content="Angry troll finds over priced macbook on craigslist" />
+    <meta property="og:description"   content="" />
+    <meta property="og:image"         content="http://nuttyemails.com/craigslist/macbook3years/macbook3years.png" />
+    
 <link rel="stylesheet" type="text/css" href="nuttyemails.css" />
 		<meta name="keywords" content="emails, email pranks">
 		<meta name="copyright" content="Anonymous Nobody">
@@ -11,6 +19,16 @@
 	</head>
 
 <body>
+		<!-- This section is code from facebook for like and share initialization -->
+        <div id="fb-root"></div>
+        <script>(function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=919855458072430";
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+        
 		<div id="wrappertop"></div>
 		<div id="wrapper">
 		<?php
@@ -120,6 +138,15 @@
             <p>Best,<br />
             </p>
 			<div id="bufferdots"></div>
+            <!-- Your like button code -->
+            <div class="fb-like" 
+                data-href="http://nuttyemails.com/macbook3years.php" 
+                data-layout="button" 
+                data-action="like" 
+                data-show-faces="true"
+                data-share="true">
+            </div>
+            
 		  </div>
           <?php
 			include('rightsidebar.php');
