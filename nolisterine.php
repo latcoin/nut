@@ -41,7 +41,7 @@
 			<div id="bufferdots4"><img src="craigslist/nofirstnations/nofirstnations.png" alt="" width="455" height="298" /></div>
 <div id="bufferdots2"></div>
 				<div id="bufferdots3"></div>
-				<h2> <strong>Super ethical listerine seller - $30</strong></h2>
+				<h2> <strong>10 bottles of listerine (can't sell to native people) - $30</strong></h2>
 				<p>&nbsp;</p>
 				<p><strong>From:</strong> Anonymous nutter<br />
 			    <strong>To:</strong> Listerine dude</p>
